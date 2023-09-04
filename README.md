@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jenni605
-- 👀 I’m interested in intelligence d'affaire
+- 👀 I’m interested in intelligent d'affaire
 - 🌱 I’m currently learning en informatique de gestion
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on works and projects
+- 📫 How to reach me jenni605
 
 <!---
 jenni605/jenni605 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
